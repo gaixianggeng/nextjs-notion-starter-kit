@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'gai',
+  name: 'Gai',
   domain: 'gaixg.com',
-  author: 'gai',
+  author: 'BobGai',
 
   // open graph metadata (optional)
   description: 'Example site description',
